@@ -1,6 +1,0 @@
-Farm_ID,Farmer_Name,Farm_Size_ha,Yield_t_per_ha,Planting_Cost_per_ha,Labour_Count
-F1,Farmer_1,1.06,4,145658,9
-F2,Farmer_2,1.93,5.9,204478,6
-F3,Farmer_3,1.6,5.7,242537,7
-F4,Farmer_4,1.4,4.4,138431,7
-F5,Farmer_5,0.73,4.4,122747,4
